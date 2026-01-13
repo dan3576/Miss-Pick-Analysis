@@ -1,11 +1,8 @@
 # Miss-Pick-Analysis (Exploratory Data Analysis)
 
 ## Objective
-Analyze warehouse picking errors (misspicks) to identify patterns and root causes, helping to improve operational accuracy.
-
-## Business Value
-Reducing misspicks improves order accuracy, customer satisfaction and reduces operational costs. 
-
+Analyze warehouse picking errors (misspicks) to identify patterns and root causes, helping to improve operational accuracy. Consequently improving order accuracy, customer satisfaction and reducing operational costs
+ 
 ## Tools Used
 - Python - Main data analysis
 - SQL - Data extraction
