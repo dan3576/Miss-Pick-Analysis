@@ -15,7 +15,11 @@ Analyze warehouse picking errors (misspicks) to identify patterns and root cause
 
 ## Questions Answered
 - Which products have highest misspick rate?
-- What factors impact misspick rate? (e.g. location, size of product, volume being picked)
+- Which pickers misspick most?
+- Does time of day and location impact misspick?
 - Why do misspicks happen?
 - How can we reduce misspicks?
   
+## Data Source
+- Dataset - Simulated warehouse picking dataset
+- Datapoints - Order ID, Product ID, Item location, Picker ID, Date and Time, Error Type
