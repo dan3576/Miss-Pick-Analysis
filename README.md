@@ -3,6 +3,9 @@
 ## Objective
 Analyze warehouse picking errors (misspicks) to identify patterns and root causes, helping to improve operational accuracy.
 
+## Business Value
+Reducing misspicks improves order accuracy, customer satisfaction and reduces operational costs. 
+
 ## Tools Used
 - Python - Main data analysis
 - SQL - Data extraction
